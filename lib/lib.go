@@ -3,5 +3,5 @@ package lib
 import "fmt"
 
 func Test() {
-	fmt.Println("vim-go-v3.0")
+	fmt.Println("vim-go-v3.1")
 }
