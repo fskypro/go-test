@@ -1,3 +1,3 @@
-module gotest/v2
+module gotest/v3
 
 go 1.12
