@@ -1,6 +1,6 @@
 package print
 
-import "gotest/lib"
+import "gotest/v2/lib"
 
 func Print() {
 	lib.Test()
